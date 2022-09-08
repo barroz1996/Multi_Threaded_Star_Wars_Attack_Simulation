@@ -1,0 +1,12 @@
+{
+  "attacks": [
+    {
+      "duration" : 1000,
+      "serials" : [1,2,3]
+    }
+  ],
+  
+  "R2D2": 2000,
+  "Lando": 2000,
+  "Ewoks": 5
+}
